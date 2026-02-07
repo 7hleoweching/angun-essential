@@ -1,2 +1,1 @@
-# angun-essential
-Business app
+"Official storefront for Angun-Essential-Handcrafted Treasures"
